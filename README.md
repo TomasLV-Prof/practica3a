@@ -2,5 +2,4 @@
 Resolución de conflictos en GitHub
 --
 > Última edición por. - Pepe
-==
-<small>Desarrolado por Pepe</small>
+<small>Desarrolado por: Pepe - María</small>
